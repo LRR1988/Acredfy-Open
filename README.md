@@ -4,6 +4,13 @@ Gestor de certificados digitales FNMT para Windows.
 
 Acredfy permite a asesorías, gestorías y despachos profesionales cambiar entre certificados digitales de clientes en segundos.
 
+## Autor
+
+**Luis Requena Rentero**
+- Email: requenarenteroluis@gmail.com
+- Web: [acredfy.com](https://acredfy.com)
+- GitHub: [@LRR1988](https://github.com/LRR1988)
+
 ## Características
 
 - Búsqueda instantánea por nombre, DNI o empresa
@@ -18,10 +25,6 @@ Acredfy permite a asesorías, gestorías y despachos profesionales cambiar entre
 - Google Chrome, Microsoft Edge o Mozilla Firefox
 - Certificados FNMT instalados en el almacén de Windows
 
-## Web
-
-[acredfy.com](https://acredfy.com)
-
 ## Licencia
 
-MIT License
+MIT License — ver [LICENSE](LICENSE)
