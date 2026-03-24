@@ -1,0 +1,4 @@
+# Acredfy - Dependencies
+# tkinter is included with Python standard library
+# winreg is included with Python on Windows
+requests>=2.31.0
